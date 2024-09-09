@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=ZKnNMbLYbaU&list=PL4C2AmBC9jOZt8T7VOWvLBbnwpPxeIhtr&index=7
+
+ALOHA CLASS
+
 # Node.js_TJE
 더조은아카데미 Node.js 실습
 
